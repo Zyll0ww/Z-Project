@@ -9,4 +9,4 @@ discord server :[https://discord.gg/44GdCq7k4C](url)
 
 > **Développeur principale** : @Zyll0ww 
 
-URequire a password unlockable after 24 hours on discord !
+Require a password unlockable after 24 hours on discord !
